@@ -1,0 +1,251 @@
+# Copyright (C) 2015 Gecka Submenu
+# This file is distributed under the same license as the Gecka Submenu package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Gecka Submenu 0.7.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/gecka-submenu\n"
+"POT-Creation-Date: 2015-10-20 03:16:04+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: gecka-submenu.class.php:197
+msgid "You are using Gecka Submenu."
+msgstr ""
+
+#: gecka-submenu.class.php:197
+msgid ""
+"<a href=\"http://www.gecka-apps.com\" target=\"_blank\">Discover the pro "
+"version</a> to get the most out of the Wordpress menu system."
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: models/Nav-Menu-Edit-Walker.php:66 models/Nav-Menu-Edit-Walker.php:291
+#: models/Nav-Menu-Edit-Walker.php:509
+msgid "%s (Pending)"
+msgstr ""
+
+#: models/Nav-Menu-Edit-Walker.php:90 models/Nav-Menu-Edit-Walker.php:315
+#: models/Nav-Menu-Edit-Walker.php:538
+msgid "Move up"
+msgstr ""
+
+#: models/Nav-Menu-Edit-Walker.php:104 models/Nav-Menu-Edit-Walker.php:329
+#: models/Nav-Menu-Edit-Walker.php:551
+msgid "Move down"
+msgstr ""
+
+#: models/Nav-Menu-Edit-Walker.php:108 models/Nav-Menu-Edit-Walker.php:110
+#: models/Nav-Menu-Edit-Walker.php:333 models/Nav-Menu-Edit-Walker.php:335
+#: models/Nav-Menu-Edit-Walker.php:555 models/Nav-Menu-Edit-Walker.php:557
+msgid "Edit Menu Item"
+msgstr ""
+
+#: models/Nav-Menu-Edit-Walker.php:119 models/Nav-Menu-Edit-Walker.php:344
+#: models/Nav-Menu-Edit-Walker.php:566
+msgid "URL"
+msgstr ""
+
+#: models/Nav-Menu-Edit-Walker.php:128 models/Nav-Menu-Edit-Walker.php:353
+#: models/Nav-Menu-Edit-Walker.php:575
+msgid "Navigation Label"
+msgstr ""
+
+#: models/Nav-Menu-Edit-Walker.php:137 models/Nav-Menu-Edit-Walker.php:362
+#: models/Nav-Menu-Edit-Walker.php:584
+msgid "Title Attribute"
+msgstr ""
+
+#: models/Nav-Menu-Edit-Walker.php:147
+msgid "Link Target"
+msgstr ""
+
+#: models/Nav-Menu-Edit-Walker.php:151
+msgid "Same window or tab"
+msgstr ""
+
+#: models/Nav-Menu-Edit-Walker.php:153
+msgid "New window or tab"
+msgstr ""
+
+#: models/Nav-Menu-Edit-Walker.php:159 models/Nav-Menu-Edit-Walker.php:380
+#: models/Nav-Menu-Edit-Walker.php:602
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: models/Nav-Menu-Edit-Walker.php:169 models/Nav-Menu-Edit-Walker.php:390
+#: models/Nav-Menu-Edit-Walker.php:612
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: models/Nav-Menu-Edit-Walker.php:178 models/Nav-Menu-Edit-Walker.php:399
+#: models/Nav-Menu-Edit-Walker.php:621
+msgid "Description"
+msgstr ""
+
+#: models/Nav-Menu-Edit-Walker.php:183 models/Nav-Menu-Edit-Walker.php:404
+#: models/Nav-Menu-Edit-Walker.php:626
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: models/Nav-Menu-Edit-Walker.php:192 models/Nav-Menu-Edit-Walker.php:413
+#: models/Nav-Menu-Edit-Walker.php:648
+msgid "Original: %s"
+msgstr ""
+
+#: models/Nav-Menu-Edit-Walker.php:205 models/Nav-Menu-Edit-Walker.php:426
+#: models/Nav-Menu-Edit-Walker.php:661
+msgid "Remove"
+msgstr ""
+
+#: models/Nav-Menu-Edit-Walker.php:208 models/Nav-Menu-Edit-Walker.php:429
+#: models/Nav-Menu-Edit-Walker.php:664
+msgid "Cancel"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: models/Nav-Menu-Edit-Walker.php:287 models/Nav-Menu-Edit-Walker.php:505
+msgid "%s (Invalid)"
+msgstr ""
+
+#: models/Nav-Menu-Edit-Walker.php:374 models/Nav-Menu-Edit-Walker.php:596
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: models/Nav-Menu-Edit-Walker.php:523
+msgid "sub item"
+msgstr ""
+
+#: models/Nav-Menu-Edit-Walker.php:632
+msgid "Move"
+msgstr ""
+
+#: models/Nav-Menu-Edit-Walker.php:633
+msgid "Up one"
+msgstr ""
+
+#: models/Nav-Menu-Edit-Walker.php:634
+msgid "Down one"
+msgstr ""
+
+#: models/Nav-Menu-Edit-Walker.php:637
+msgid "To the top"
+msgstr ""
+
+#: views/Nav-Menu-Fields.php:6
+msgid "Automatically populate with child pages"
+msgstr ""
+
+#: widgets/Custom-menu.php:16
+msgid "Use this widget to add one of your custom menus as a widget."
+msgstr ""
+
+#: widgets/Custom-menu.php:18
+msgid "Custom Menu"
+msgstr ""
+
+#: widgets/Custom-menu.php:18
+msgid "[advanced]"
+msgstr ""
+
+#: widgets/Custom-menu.php:92
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: widgets/Custom-menu.php:98
+msgid "Title:"
+msgstr ""
+
+#: widgets/Custom-menu.php:107
+msgid "Use top parent item title"
+msgstr ""
+
+#: widgets/Custom-menu.php:110
+msgid "Select Menu:"
+msgstr ""
+
+#: widgets/Custom-menu.php:115
+msgid "Select"
+msgstr ""
+
+#: widgets/Custom-menu.php:127
+msgid "Start menu from:"
+msgstr ""
+
+#: widgets/Custom-menu.php:131
+msgid "Click save first"
+msgstr ""
+
+#: widgets/Custom-menu.php:138
+msgid "Depth:"
+msgstr ""
+
+#: widgets/Custom-menu.php:145
+msgid "Show parent item"
+msgstr ""
+
+#: widgets/Custom-menu.php:148
+msgid "Show description"
+msgstr ""
+
+#: widgets/Custom-menu.php:152
+msgid "No"
+msgstr ""
+
+#: widgets/Custom-menu.php:154
+msgid "Into link element"
+msgstr ""
+
+#: widgets/Custom-menu.php:156
+msgid "Into li element"
+msgstr ""
+
+#: widgets/Custom-menu.php:160
+msgid "Class:"
+msgstr ""
+
+#: widgets/Custom-menu.php:175 widgets/Custom-menu.php:203
+msgid "First select a nav menu"
+msgstr ""
+
+#: widgets/Custom-menu.php:182
+msgid "Error: Unknow menu."
+msgstr ""
+
+#: widgets/Custom-menu.php:188
+msgid "Nav menu root"
+msgstr ""
+
+#: widgets/Custom-menu.php:189
+msgid "Current page"
+msgstr ""
+
+#: widgets/Custom-menu.php:190
+msgid "Current page's top parent"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Gecka Submenu"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://gecka-apps.com/wordpress-plugins/geka-submenu/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Enhances the worpdress nav menu system, autopopulate with children pages"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Gecka Apps, Gecka"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://gecka-apps.com"
+msgstr ""

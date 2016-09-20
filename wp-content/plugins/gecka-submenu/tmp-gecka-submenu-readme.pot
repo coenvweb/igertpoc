@@ -1,0 +1,186 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Gecka Submenu"
+msgstr ""
+
+#. Short description.
+msgid "Submenu autopopulates any nav menu page item with its children and allows to put menus, or portion of menus, anywhere in your site."
+msgstr ""
+
+#. Screenshot description.
+msgid "Advanced custom menu widget"
+msgstr ""
+
+#. Screenshot description.
+msgid "Autopopulating with child pages"
+msgstr ""
+
+#. Found in description paragraph, installation paragraph.
+msgid "<strong>PHP 5 required. Please be sure to check your PHP version before marking the plugin as broken.</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Submenu enhances the WordPress 3.x navigation system. When you have a website based on WordPress with a lot of pages, but you need a custom menu, it can be tedious to have to add a menu entry for each page created. Submenu just does it automatically."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Submenu also allows you to put menus or portion of menus anywhere in your site: sidebar, templates or page contents."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Languages available: english, french"
+msgstr ""
+
+#. Found in description paragraph, installation paragraph.
+msgid "<strong>Contribute:</strong> <a href=\"https://github.com/Gecka-Apps/Wordpress_Gecka_Submenu\">This plugin is on GitHub</a> !"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://gecka-apps.com/wordpress-plugins/gecka-submenu-pro/\" title=\"Discover the pro version\">Discover the pro version</a> by checking out the <a href=\"http://www.youtube.com/watch?v=DHjMfD-k2Mo\">Gecka Submenu Pro video</a>:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "http://www.youtube.com/watch?v=DHjMfD-k2Mo"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload &#096;gecka-submenu&#096; to the &#096;/wp-content/plugins/&#096; directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<a href=\"http://gecka-apps.com/documentation/geka-submenu-pro/\">Read the documentation</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support WP 4.3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Only show option to auto populate for nav menu item of type page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "German"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "performances enhancements"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "better widget with specific class support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Wordpress 3.5 compatibility"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fix Call-time pass-by-reference errors"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "other fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "shortcodes caching"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "performances improvement"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fix: show categories submenus when viewing posts or archives"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WPML support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "more fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "add menu item description positioning"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fix template action"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fix start_from parameter that wasn't used"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "corrected readme file  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added the start from \"Top parent element\" option to the widget"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "bug fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "new and better way to autopopulate menu  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "other fixes  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "new widget  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "More fixes  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Menu parameter is no more mandatory, gets the lowest ID menu if not set  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug in submenu builder"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed some notice errors"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Experimental functionnality to autopopulate a page menu item with its subpages for WP 3.0 nav menu system"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added template tag and shortcode support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bugs fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization support (French added)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "First version."
+msgstr ""
